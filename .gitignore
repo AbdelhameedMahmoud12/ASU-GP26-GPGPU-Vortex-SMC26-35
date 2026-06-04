@@ -1,0 +1,27 @@
+# LaTeX auxiliary files (exclude build junk, keep sources)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.run.xml
+*-blx.bib
+*.pdf.bak
+
+# Office temporary files (temporary locks)
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Exclude Term 2 / Phase 2 deliverables for now
+Deliverables/Phase-2/
