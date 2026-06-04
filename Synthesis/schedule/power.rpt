@@ -1,0 +1,39 @@
+ 
+****************************************
+Report : power
+        -hier
+        -analysis_effort low
+Design : VX_schedule
+Version: K-2015.06
+Date   : Tue Jun  2 20:37:36 2026
+****************************************
+
+
+Library(s) Used:
+
+    NangateOpenCellLibrary_ss0p95v125c (File: /home/IC/schedule/std_cells/NangateOpenCellLibrary_ss0p95v125c.db)
+
+
+Operating Conditions: slow   Library: NangateOpenCellLibrary_ss0p95v125c
+Wire Load Model Mode: top
+
+Design        Wire Load Model            Library
+------------------------------------------------
+VX_schedule            5K_hvratio_1_1    NangateOpenCellLibrary_ss0p95v125c
+
+
+Global Operating Voltage = 0.95 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = 1nW
+
+
+--------------------------------------------------------------------------------
+                                       Switch   Int      Leak     Total
+Hierarchy                              Power    Power    Power    Power    %
+--------------------------------------------------------------------------------
+VX_schedule                             149.953 1.18e+03 1.29e+05 1.46e+03 100.0
+1

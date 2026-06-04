@@ -1,0 +1,83 @@
+ 
+****************************************
+Report : constraint
+        -all_violators
+Design : VX_execute
+Version: K-2015.06
+Date   : Wed Jun  3 03:04:09 2026
+****************************************
+
+
+   max_transition
+
+                             Required        Actual
+   Net                      Transition     Transition        Slack
+   -----------------------------------------------------------------
+   n92901                       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U41599/A         0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103121/A1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103131/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103134/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103137/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103140/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103262/A1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103281/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103284/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103287/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103290/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103691/A1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103726/A2       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103739/A2       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103753/A1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103767/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103770/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103773/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103776/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103904/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103907/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103910/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U103913/B1       0.50           0.57          -0.07  (VIOLATED)
+       PIN :   U102604/ZN       0.50           0.57          -0.07  (VIOLATED)
+   n70338                       0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U41605/A         0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95193/B1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95182/B1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U96089/S         0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95864/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95657/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U72304/A3        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U71932/S         0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U71929/S         0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95175/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95178/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95189/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95197/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95200/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95212/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95220/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95244/B2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U95846/A2        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U96145/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U96151/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U96157/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U96163/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U96169/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U96185/C1        0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U71928/A         0.50           0.53          -0.03  (VIOLATED)
+       PIN :   U71927/ZN        0.50           0.53          -0.03  (VIOLATED)
+
+   -----------------------------------------------------------------
+   Total                      2                  -0.10  
+
+   max_capacitance
+
+                             Required        Actual
+   Net                      Capacitance    Capacitance       Slack
+   -----------------------------------------------------------------
+   n92901                      53.30          61.43          -8.13  (VIOLATED)
+   n70338                      59.35          63.50          -4.16  (VIOLATED)
+
+   -----------------------------------------------------------------
+   Total                      2                 -12.28  
+
+1

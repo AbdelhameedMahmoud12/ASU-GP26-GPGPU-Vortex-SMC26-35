@@ -1,0 +1,43 @@
+ 
+****************************************
+Report : area
+Design : VX_execute
+Version: K-2015.06
+Date   : Wed Jun  3 03:04:07 2026
+****************************************
+
+Library(s) Used:
+
+    NangateOpenCellLibrary_ss0p95v125c (File: /home/IC/execute/std_cells/NangateOpenCellLibrary_ss0p95v125c.db)
+
+Number of ports:                         3343
+Number of nets:                         84888
+Number of cells:                        77002
+Number of combinational cells:          65724
+Number of sequential cells:             11278
+Number of macros/black boxes:               0
+Number of buf/inv:                      10850
+Number of references:                      73
+
+Combinational area:              82853.414467
+Buf/Inv area:                     6138.748043
+Noncombinational area:           50348.478183
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                133201.892650
+Total area:                 undefined
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area             Local cell area
+                                  --------------------  ------------------------------ 
+Hierarchical cell                 Absolute     Percent  Combi-      Noncombi-   Black-
+                                  Total        Total    national    national    boxes   Design
+--------------------------------  -----------  -------  ----------  ----------  ------  ---------
+VX_execute                        133201.8927    100.0  82853.4145  50348.4782  0.0000  VX_execute
+--------------------------------  -----------  -------  ----------  ----------  ------  ---------
+Total                                                   82853.4145  50348.4782  0.0000
+
+1

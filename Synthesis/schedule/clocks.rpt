@@ -1,0 +1,20 @@
+ 
+****************************************
+Report : clocks
+Design : VX_schedule
+Version: K-2015.06
+Date   : Tue Jun  2 20:37:36 2026
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+CLK              4.00   {0 2}               d         {clk}
+--------------------------------------------------------------------------------
+1
