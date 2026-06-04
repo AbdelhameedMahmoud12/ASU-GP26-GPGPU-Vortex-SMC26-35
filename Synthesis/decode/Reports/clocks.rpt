@@ -1,0 +1,20 @@
+ 
+****************************************
+Report : clocks
+Design : VX_decode
+Version: K-2015.06
+Date   : Sun May 17 01:37:12 2026
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+CLK            165.00   {0 82}              d         {clk}
+--------------------------------------------------------------------------------
+1

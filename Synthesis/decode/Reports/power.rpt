@@ -1,0 +1,44 @@
+Loading db file '/home/IC/Graduation_Project/std_cells/NangateOpenCellLibrary_ss0p95v125c.db'
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+ 
+****************************************
+Report : power
+        -hier
+        -analysis_effort low
+Design : VX_decode
+Version: K-2015.06
+Date   : Sun May 17 01:37:12 2026
+****************************************
+
+
+Library(s) Used:
+
+    NangateOpenCellLibrary_ss0p95v125c (File: /home/IC/Graduation_Project/std_cells/NangateOpenCellLibrary_ss0p95v125c.db)
+
+
+Operating Conditions: slow   Library: NangateOpenCellLibrary_ss0p95v125c
+Wire Load Model Mode: top
+
+Design        Wire Load Model            Library
+------------------------------------------------
+VX_decode              5K_hvratio_1_1    NangateOpenCellLibrary_ss0p95v125c
+
+
+Global Operating Voltage = 0.95 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = 1nW
+
+
+--------------------------------------------------------------------------------
+                                       Switch   Int      Leak     Total
+Hierarchy                              Power    Power    Power    Power    %
+--------------------------------------------------------------------------------
+VX_decode                                 0.141 9.81e-02 4.28e+03    4.523 100.0
+  req_buf (VX_elastic_buffer_DATAW153_SIZE0)
+                                          0.000    0.000    0.000    0.000   0.0
+1

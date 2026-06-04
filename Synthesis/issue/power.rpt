@@ -1,0 +1,39 @@
+ 
+****************************************
+Report : power
+        -hier
+        -analysis_effort low
+Design : VX_issue
+Version: K-2015.06
+Date   : Wed Jun  3 00:53:34 2026
+****************************************
+
+
+Library(s) Used:
+
+    NangateOpenCellLibrary_tt1p1v25c (File: /home/IC/Issue/std_cells/NangateOpenCellLibrary_tt1p1v25c.db)
+
+
+Operating Conditions: slow   Library: NangateOpenCellLibrary_ss0p95v125c
+Wire Load Model Mode: top
+
+Design        Wire Load Model            Library
+------------------------------------------------
+VX_issue               5K_hvratio_1_1    NangateOpenCellLibrary_tt1p1v25c
+
+
+Global Operating Voltage = 0.95 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = 1nW
+
+
+--------------------------------------------------------------------------------
+                                       Switch   Int      Leak     Total
+Hierarchy                              Power    Power    Power    Power    %
+--------------------------------------------------------------------------------
+VX_issue                               1.28e+03 6.79e+04 4.96e+06 7.41e+04 100.0
+1
