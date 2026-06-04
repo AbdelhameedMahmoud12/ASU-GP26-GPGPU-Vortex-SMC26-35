@@ -1,0 +1,1086 @@
+**************************************************
+Report         : passing_points
+
+Reference      : Ref:/WORK/VX_fetch
+Implementation : Imp:/WORK/VX_fetch
+Version        : L-2016.03-SP1
+Date           : Sun May 17 01:44:40 2026
+**************************************************
+
+350 Passing compare points:
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[0]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[0]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[10]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[10]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[11]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[11]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[12]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[12]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[13]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[13]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[14]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[14]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[15]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[15]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[16]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[16]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[17]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[17]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[18]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[18]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[19]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[19]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[1]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[1]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[20]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[20]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[21]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[21]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[22]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[22]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[23]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[23]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[24]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[24]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[25]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[25]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[26]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[26]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[27]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[27]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[28]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[28]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[29]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[29]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[2]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[2]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[30]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[30]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[31]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[31]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[32]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[32]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[3]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[3]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[4]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[4]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[5]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[5]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[6]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[6]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[7]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[7]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[8]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[8]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[9]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.buffer_r_reg[9]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[0]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[0]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[10]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[10]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[11]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[11]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[12]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[12]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[13]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[13]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[14]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[14]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[15]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[15]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[16]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[16]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[17]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[17]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[18]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[18]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[19]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[19]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[1]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[1]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[20]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[20]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[21]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[21]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[22]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[22]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[23]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[23]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[24]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[24]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[25]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[25]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[26]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[26]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[27]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[27]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[28]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[28]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[29]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[29]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[2]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[2]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[30]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[30]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[31]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[31]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[32]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[32]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[3]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[3]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[4]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[4]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[5]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[5]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[6]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[6]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[7]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[7]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[8]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[8]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[9]
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.data_out_r_reg[9]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.valid_in_r_reg
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.valid_in_r_reg
+
+  Ref  DFF        Ref:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.valid_out_r_reg
+  Impl DFF        Imp:/WORK/VX_fetch/req_buf/g_eb2.stream_buffer/g_buffer.valid_out_r_reg
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][0]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][0]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][10]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][10]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][11]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][11]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][12]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][12]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][13]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][13]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][14]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][14]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][15]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][15]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][16]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][16]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][17]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][17]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][18]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][18]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][19]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][19]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][1]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][1]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][20]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][20]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][21]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][21]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][22]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][22]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][23]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][23]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][24]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][24]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][25]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][25]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][26]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][26]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][27]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][27]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][28]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][28]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][29]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][29]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][2]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][2]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][30]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][30]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][31]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][31]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][32]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][32]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][33]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][33]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][3]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][3]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][4]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][4]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][5]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][5]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][6]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][6]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][7]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][7]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][8]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][8]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][9]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[0][9]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][0]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][0]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][10]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][10]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][11]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][11]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][12]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][12]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][13]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][13]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][14]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][14]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][15]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][15]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][16]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][16]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][17]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][17]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][18]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][18]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][19]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][19]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][1]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][1]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][20]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][20]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][21]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][21]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][22]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][22]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][23]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][23]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][24]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][24]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][25]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][25]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][26]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][26]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][27]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][27]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][28]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][28]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][29]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][29]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][2]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][2]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][30]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][30]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][31]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][31]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][32]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][32]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][33]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][33]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][3]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][3]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][4]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][4]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][5]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][5]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][6]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][6]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][7]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][7]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][8]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][8]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][9]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[1][9]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][0]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][0]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][10]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][10]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][11]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][11]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][12]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][12]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][13]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][13]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][14]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][14]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][15]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][15]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][16]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][16]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][17]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][17]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][18]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][18]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][19]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][19]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][1]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][1]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][20]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][20]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][21]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][21]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][22]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][22]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][23]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][23]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][24]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][24]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][25]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][25]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][26]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][26]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][27]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][27]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][28]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][28]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][29]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][29]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][2]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][2]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][30]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][30]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][31]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][31]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][32]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][32]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][33]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][33]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][3]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][3]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][4]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][4]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][5]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][5]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][6]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][6]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][7]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][7]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][8]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][8]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][9]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[2][9]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][0]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][0]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][10]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][10]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][11]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][11]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][12]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][12]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][13]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][13]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][14]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][14]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][15]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][15]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][16]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][16]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][17]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][17]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][18]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][18]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][19]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][19]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][1]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][1]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][20]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][20]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][21]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][21]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][22]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][22]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][23]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][23]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][24]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][24]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][25]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][25]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][26]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][26]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][27]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][27]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][28]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][28]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][29]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][29]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][2]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][2]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][30]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][30]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][31]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][31]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][32]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][32]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][33]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][33]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][3]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][3]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][4]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][4]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][5]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][5]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][6]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][6]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][7]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][7]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][8]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][8]
+
+  Ref  DFF        Ref:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][9]
+  Impl DFF        Imp:/WORK/VX_fetch/tag_store/g_async.g_auto.g_read_first.g_no_wren.ram_reg[3][9]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][0]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[32]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][10]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[42]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][11]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[43]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][12]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[44]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][13]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[45]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][14]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[46]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][15]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[47]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][16]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[48]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][17]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[49]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][18]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[50]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][19]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[51]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][1]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[33]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][20]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[52]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][21]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[53]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][22]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[54]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][23]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[55]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][24]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[56]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][25]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[57]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][26]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[58]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][27]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[59]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][28]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[60]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][29]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[61]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][2]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[34]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][3]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[35]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][4]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[36]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][5]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[37]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][6]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[38]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][7]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[39]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][8]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[40]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[PC][9]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[41]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][0]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[0]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][10]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[10]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][11]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[11]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][12]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[12]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][13]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[13]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][14]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[14]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][15]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[15]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][16]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[16]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][17]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[17]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][18]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[18]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][19]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[19]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][1]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[1]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][20]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[20]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][21]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[21]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][22]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[22]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][23]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[23]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][24]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[24]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][25]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[25]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][26]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[26]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][27]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[27]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][28]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[28]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][29]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[29]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][2]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[2]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][30]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[30]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][31]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[31]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][3]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[3]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][4]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[4]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][5]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[5]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][6]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[6]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][7]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[7]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][8]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[8]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[instr][9]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[9]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[tmask][0]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[62]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[tmask][1]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[63]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[tmask][2]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[64]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[tmask][3]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[65]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[uuid][0]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[68]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[wid][0]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[66]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.data\[wid][1]
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.data[67]
+
+  Ref  Port       Ref:/WORK/VX_fetch/fetch_if.valid
+  Impl Port       Imp:/WORK/VX_fetch/fetch_if.valid
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[0]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[0]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[10]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[10]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[11]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[11]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[12]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[12]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[13]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[13]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[14]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[14]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[15]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[15]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[16]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[16]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[17]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[17]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[18]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[18]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[19]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[19]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[1]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[1]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[20]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[20]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[21]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[21]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[22]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[22]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[23]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[23]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[24]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[24]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[25]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[25]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[26]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[26]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[27]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[27]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[28]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[28]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[29]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[29]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[2]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[2]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[3]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[3]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[4]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[4]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[5]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[5]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[6]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[6]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[7]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[7]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[8]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[8]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_addr[9]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_addr[9]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_byteen[0]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_byteen[0]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_byteen[1]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_byteen[1]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_byteen[2]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_byteen[2]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_byteen[3]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_byteen[3]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[0]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[0]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[10]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[10]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[11]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[11]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[12]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[12]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[13]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[13]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[14]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[14]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[15]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[15]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[16]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[16]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[17]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[17]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[18]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[18]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[19]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[19]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[1]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[1]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[20]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[20]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[21]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[21]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[22]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[22]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[23]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[23]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[24]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[24]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[25]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[25]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[26]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[26]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[27]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[27]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[28]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[28]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[29]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[29]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[2]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[2]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[30]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[30]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[31]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[31]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[3]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[3]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[4]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[4]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[5]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[5]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[6]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[6]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[7]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[7]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[8]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[8]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_data[9]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_data[9]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_flags[0]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_flags[0]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_flags[1]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_flags[1]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_flags[2]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_flags[2]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_rw
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_rw
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_tag[0]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_tag[0]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_tag[1]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_tag[1]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_tag[2]
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_tag[2]
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.req_valid
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.req_valid
+
+  Ref  Port       Ref:/WORK/VX_fetch/icache_bus_if.rsp_ready
+  Impl Port       Imp:/WORK/VX_fetch/icache_bus_if.rsp_ready
+
+  Ref  Port       Ref:/WORK/VX_fetch/schedule_if.ready
+  Impl Port       Imp:/WORK/VX_fetch/schedule_if.ready
+
+ [BBNet: multiply-driven net
+  BBPin: black-box pin
+  Cut:   cut-point
+  DFF:   non-constant DFF register
+  DFF0:  constant 0 DFF register
+  DFF1:  constant 1 DFF register
+  DFFX:  constant X DFF register
+  DFF0X: constrained 0X DFF register
+  DFF1X: constrained 1X DFF register
+  LAT:   non-constant latch register
+  LAT0:  constant 0 latch register
+  LAT1:  constant 1 latch register
+  LATX:  constant X latch register
+  LAT0X: constrained 0X latch register
+  LAT1X: constrained 1X latch register
+  LATCG: clock-gating latch register
+  TLA:   transparent latch register
+  TLA0X: transparent constrained 0X latch register
+  TLA1X: transparent constrained 1X latch register
+  Loop:  cycle break point
+  Port:  primary (top-level) port
+  Und:   undriven signal cut-point
+  Unk:   unknown signal cut-point]
+
+1

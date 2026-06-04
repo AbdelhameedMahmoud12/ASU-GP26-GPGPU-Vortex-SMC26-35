@@ -1,0 +1,513 @@
+**************************************************
+Report         : passing_points
+
+Reference      : REF:/WORK/VX_decode
+Implementation : Imp:/WORK/VX_decode
+Version        : L-2016.03-SP1
+Date           : Sun May 17 02:05:27 2026
+**************************************************
+
+159 Passing compare points:
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[71]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][10]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[81]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][11]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[82]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][12]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[83]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][13]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[84]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][14]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[85]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][15]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[86]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][16]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[87]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][17]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[88]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][18]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[89]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][19]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[90]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[72]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][20]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[91]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][21]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[92]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][22]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[93]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][23]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[94]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][24]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[95]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][25]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[96]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][26]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[97]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][27]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[98]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][28]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[99]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][29]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[100]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[73]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][30]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[101]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][31]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[102]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[74]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][4]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[75]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][5]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[76]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][6]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[77]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][7]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[78]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][8]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[79]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[PC][9]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[80]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[ex_type][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[69]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[ex_type][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[70]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[28]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][10]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[38]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][11]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[39]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][12]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[40]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][13]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[41]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][14]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[42]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][15]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[43]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][16]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[44]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][17]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[45]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][18]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[46]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][19]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[47]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[29]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][20]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[48]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][21]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[49]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][22]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[50]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][23]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[51]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][24]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[52]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][25]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[53]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][26]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[54]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][27]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[55]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][28]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[56]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][29]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[57]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[30]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][30]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[58]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][31]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[59]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][32]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[60]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][33]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[61]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][34]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[62]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][35]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[63]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][36]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[64]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[31]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][4]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[32]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][5]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[33]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][6]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[34]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][7]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[35]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][8]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[36]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_args][9]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[37]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_type][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[65]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_type][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[66]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_type][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[67]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[op_type][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[68]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rd][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[18]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rd][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[19]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rd][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[20]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rd][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[21]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rd][4]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[22]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rd][5]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[23]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs1][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[12]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs1][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[13]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs1][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[14]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs1][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[15]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs1][4]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[16]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs1][5]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[17]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs2][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[6]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs2][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[7]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs2][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[8]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs2][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[9]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs2][4]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[10]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs2][5]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[11]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs3][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[0]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs3][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[1]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs3][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[2]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs3][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[3]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs3][4]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[4]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[rs3][5]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[5]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[tmask][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[103]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[tmask][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[104]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[tmask][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[105]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[tmask][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[106]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[used_rs][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[24]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[used_rs][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[25]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[used_rs][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[26]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[109]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][10]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[119]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][11]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[120]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][12]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[121]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][13]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[122]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][14]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[123]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][15]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[124]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][16]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[125]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][17]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[126]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][18]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[127]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][19]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[128]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[110]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][20]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[129]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][21]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[130]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][22]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[131]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][23]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[132]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][24]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[133]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][25]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[134]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][26]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[135]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][27]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[136]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][28]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[137]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][29]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[138]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][2]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[111]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][30]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[139]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][31]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[140]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][32]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[141]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][33]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[142]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][34]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[143]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][35]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[144]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][36]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[145]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][37]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[146]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][38]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[147]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][39]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[148]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][3]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[112]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][40]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[149]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][41]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[150]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][42]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[151]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][43]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[152]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][4]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[113]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][5]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[114]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][6]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[115]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][7]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[116]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][8]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[117]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[uuid][9]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[118]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[wb]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[27]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[wid][0]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[107]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.data\[wid][1]
+  Impl Port       Imp:/WORK/VX_decode/decode_if.data[108]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_if.valid
+  Impl Port       Imp:/WORK/VX_decode/decode_if.valid
+
+  Ref  Port       REF:/WORK/VX_decode/decode_sched_if.unlock
+  Impl Port       Imp:/WORK/VX_decode/decode_sched_if.unlock
+
+  Ref  Port       REF:/WORK/VX_decode/decode_sched_if.valid
+  Impl Port       Imp:/WORK/VX_decode/decode_sched_if.valid
+
+  Ref  Port       REF:/WORK/VX_decode/decode_sched_if.wid[0]
+  Impl Port       Imp:/WORK/VX_decode/decode_sched_if.wid[0]
+
+  Ref  Port       REF:/WORK/VX_decode/decode_sched_if.wid[1]
+  Impl Port       Imp:/WORK/VX_decode/decode_sched_if.wid[1]
+
+  Ref  Port       REF:/WORK/VX_decode/fetch_if.ready
+  Impl Port       Imp:/WORK/VX_decode/fetch_if.ready
+
+ [BBNet: multiply-driven net
+  BBPin: black-box pin
+  Cut:   cut-point
+  DFF:   non-constant DFF register
+  DFF0:  constant 0 DFF register
+  DFF1:  constant 1 DFF register
+  DFFX:  constant X DFF register
+  DFF0X: constrained 0X DFF register
+  DFF1X: constrained 1X DFF register
+  LAT:   non-constant latch register
+  LAT0:  constant 0 latch register
+  LAT1:  constant 1 latch register
+  LATX:  constant X latch register
+  LAT0X: constrained 0X latch register
+  LAT1X: constrained 1X latch register
+  LATCG: clock-gating latch register
+  TLA:   transparent latch register
+  TLA0X: transparent constrained 0X latch register
+  TLA1X: transparent constrained 1X latch register
+  Loop:  cycle break point
+  Port:  primary (top-level) port
+  Und:   undriven signal cut-point
+  Unk:   unknown signal cut-point]
+
+1
