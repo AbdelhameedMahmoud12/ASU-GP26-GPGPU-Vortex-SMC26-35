@@ -1,0 +1,22 @@
+# Design Compiler Working Directories and Cache
+**/work/
+**/alib-*/
+
+# Design Compiler Binary and Setup Files
+**/*.ddc
+**/*.svf
+
+# Large Delay/Timing Annotation Files
+**/*.sdf
+
+# Large Gate-Level Netlists / Generated Verilog Files
+**/*.v
+
+# Tool-generated logs and filenames logs
+**/filenames_*.log
+**/command.log
+**/syn.log
+
+# Editor backup files
+**/*~
+

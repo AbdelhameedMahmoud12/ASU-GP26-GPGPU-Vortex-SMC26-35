@@ -1,0 +1,53 @@
+ 
+****************************************
+Report : constraint
+        -all_violators
+Design : Vortex_axi
+Version: K-2015.06
+Date   : Mon Jun  1 19:41:43 2026
+****************************************
+
+
+   max_transition
+
+                             Required        Actual
+   Net                      Transition     Transition        Slack
+   -----------------------------------------------------------------
+   n303671                      0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U162542/A        0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358375/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358373/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358378/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358409/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358458/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358404/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358446/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358452/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358463/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358464/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358465/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358466/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358467/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358468/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358469/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358470/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358471/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358472/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358473/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358474/A1       0.50           0.54          -0.04  (VIOLATED)
+       PIN :   U358365/ZN       0.50           0.54          -0.04  (VIOLATED)
+
+   -----------------------------------------------------------------
+   Total                      1                  -0.04  
+
+   max_capacitance
+
+                             Required        Actual
+   Net                      Capacitance    Capacitance       Slack
+   -----------------------------------------------------------------
+   n303671                     53.30          58.36          -5.06  (VIOLATED)
+
+   -----------------------------------------------------------------
+   Total                      1                  -5.06  
+
+1
